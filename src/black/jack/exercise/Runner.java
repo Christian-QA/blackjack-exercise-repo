@@ -4,7 +4,7 @@ package black.jack.exercise;
 
 		public static void main(String[] args) {
 		
-		BlackJack.bustChecker(3); /// How many players? Caps at 8
+			BlackJack.bustChecker(2); /// How many players? Caps at 8
 		
 		}
 		
